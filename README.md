@@ -1,3 +1,4 @@
 
 # PracticaGifAnimado
-[image](https://github.com/CodyMaster8/PracticaGifAnimado/assets/148461269/3e0e53a4-27c8-4dc2-97d9-4d63d3833ea9)
+![image](https://github.com/CodyMaster8/PracticaGifAnimado/assets/148461269/8ec23979-8a5f-4b95-9536-e8bfae11053e)
+
